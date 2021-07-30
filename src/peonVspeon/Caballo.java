@@ -9,7 +9,7 @@ import javax.swing.*;
 
 /**
  *
- * @author abel
+ * @argenis
  */
 public class Caballo extends Ficha{
     

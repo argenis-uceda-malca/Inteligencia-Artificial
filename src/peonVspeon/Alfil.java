@@ -9,10 +9,7 @@ import java.awt.Component;
 import java.util.ArrayList;
 import javax.swing.*;
 
-/**
- *
- * @author abel
- */
+
 public class Alfil extends Ficha{
    
   

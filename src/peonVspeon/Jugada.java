@@ -6,7 +6,7 @@
 package peonVspeon;
 import java.awt.Point;
 /**
- *
+ *argenis
  */
 public class Jugada {
     Ficha f;

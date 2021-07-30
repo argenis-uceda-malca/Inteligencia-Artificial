@@ -18,7 +18,7 @@ import javax.swing.*;
 import java.awt.Point;
 
 /**
- *
+ *argenis
  *
  */
 public abstract class Ficha extends JButton {

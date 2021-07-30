@@ -11,7 +11,7 @@ import javax.swing.*;
 
 /**
  *
- * @author abel
+ * @argenis
  */
 public class Torre extends Ficha{
 

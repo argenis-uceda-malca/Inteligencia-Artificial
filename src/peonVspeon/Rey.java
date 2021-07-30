@@ -9,7 +9,7 @@ import javax.swing.*;
 
 /**
  *
- * @author abel
+ * @argenis
  */
 public class Rey extends  Ficha{
     

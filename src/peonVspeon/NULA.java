@@ -10,7 +10,7 @@ import javax.swing.*;
 
 /**
  *
- * @author abel
+ * @argenis
  */
 public class NULA extends Ficha{
     

@@ -7,7 +7,7 @@ package peonVspeon;
 
 /**
  *
- * @author abel
+ * @argenis
  */
 public class Jugadores extends javax.swing.JDialog {
 
